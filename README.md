@@ -6,8 +6,9 @@ https://us-central1-fir-api-4d9a5.cloudfunctions.net/app
 
 # Test with UI :
 1. Download the UI foler.
-2. Open index.html file on the browser.
-3. With the UI:
+2. Unzip Public folder
+3. Open index.html file on the browser.
+4. With the UI:
     - You can see the users on the firestore data base.
     - Create new users.
     - Update users.
